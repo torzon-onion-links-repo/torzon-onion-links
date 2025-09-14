@@ -4,11 +4,11 @@
 
 ## Finding and Using TorZon Onion Links
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion
 
-[<img src="/assets/inspect.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/assets/inspect.webp" width="200">](http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/assets/menu.webp" alt="TorZon Onion Links: Secure Access to the Darknet" style="max-width: 100%;"></a>
+<a href="http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion"><img src="/assets/menu.webp" alt="TorZon Onion Links: Secure Access to the Darknet" style="max-width: 100%;"></a>
 
 This is an educational resource. We do not endorse any illegal actions.
 
@@ -38,3 +38,5 @@ This is an educational resource. We do not endorse any illegal actions.
 ### Disclaimer:
 
 This resource is for educational purposes only.
+
+Update:  09/14/2025
